@@ -11,3 +11,4 @@ if __name__ == "__main__":
     result_sub = subtract(num1, num2)
     print(f"Addition: {num1} + {num2} = {result_add}")
     print(f"Subtraction: {num1} - {num2} = {result_sub}")
+    
